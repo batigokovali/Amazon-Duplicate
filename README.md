@@ -1,1 +1,1 @@
-# Amazon-Mockup-Page
+# Amazon-Duplicate
